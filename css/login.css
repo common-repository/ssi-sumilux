@@ -1,0 +1,75 @@
+body.login {
+	
+}
+
+.ssi-signup-wrap {
+	margin: 10px 0 10px 0;
+	position: relative;	
+}
+
+.ssi-signup-wrap .or-wrap {
+	line-height: 30px;
+	height: 30px;
+	border-bottom: 1px solid #000000;
+	margin-bottom: 15px;	
+}
+
+.ssi-signup-wrap .or-text {
+	position: absolute;
+	font-weight: bold;
+	font-size: 16px;
+	left: 47%;
+	top: 15px;
+	background-color:#FFFFFF;
+	padding: 0 5px 0 5px;
+}
+
+#login {
+	width: 910px;
+}
+
+.login-panel {
+
+	width: 352px;
+}
+
+.login-panel-wp {
+	float: left;
+}
+
+.login-panel form {
+    height: 180px !important;
+}
+.login-panel-ssi {
+	float: left !important;
+}
+.login-panel-ssi form{
+    padding-top: 29px;
+}
+.login-panel-ssi form{
+    /*height: 125px !important;*/
+    height: 225px;
+    display: block;
+    text-align: center;
+}
+
+
+
+.login-sep-text {
+	float: left;
+	margin: 100px 20px 20px 30px;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+h1 a {
+	display: block;
+	width: 100%;
+}
+#powered-ssi{
+    bottom: 30px;
+    margin: auto;
+    position: relative;
+    width: 150px;
+}
